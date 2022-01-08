@@ -1,2 +1,2 @@
 # naivebayes-from-scratch
-naivebayes from scratch with python
+Naivebayes from scratch with python
